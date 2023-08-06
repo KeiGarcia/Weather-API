@@ -1,0 +1,26 @@
+{
+  "name": "backend-14-m4-c8-garcia-keila",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> Iniciando un proyecto ¡Paso a paso! </h1>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./src/index.ts",
+    "build": "tsc",
+    "test:model": "ts-node ./src/model/model.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backend-ada/backend-14-m4-c8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/backend-ada/backend-14-m4-c8/issues"
+  },
+  "homepage": "https://github.com/backend-ada/backend-14-m4-c8#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
